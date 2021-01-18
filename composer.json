@@ -1,5 +1,5 @@
 {
-  "name": "khanamiryan/qrcode-detector-decoder-byqs",
+  "name": "vipqing123/qrcode-detector-decoder-byqs",
   "type": "library",
   "description": "QR code decoder / reader",
   "keywords": [
@@ -11,9 +11,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Ashot Khanamiryan",
-      "email": "a.khanamiryan@gmail.com",
-      "homepage": "https://github.com/khanamiryan",
+      "name": "qs",
+      "email": "vipqing123@gmail.com",
+      "homepage": "https://github.com/vipqing123",
       "role": "Developer"
     }
   ],
