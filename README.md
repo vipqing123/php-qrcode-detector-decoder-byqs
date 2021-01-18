@@ -9,7 +9,7 @@ The recommended method of installing this library is via [Composer](https://getc
 Run the following command from your project root:
 
 ```bash
-$ composer require khanamiryan/qrcode-detector-decoder-byqs
+$ composer require vipqing123/qrcode-detector-decoder-byqs
 ```
 
 
